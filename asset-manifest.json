@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/bitlist/static/css/main.5c8c4955.css",
+    "main.js": "/bitlist/static/js/main.715509ba.js",
+    "static/media/Frame.svg": "/bitlist/static/media/Frame.3584883e441639df2bdc99f1208a5bf6.svg",
+    "static/media/Mainpage.svg": "/bitlist/static/media/Mainpage.6e701cc9042c214186ba.svg",
+    "static/media/logo.svg": "/bitlist/static/media/logo.8a5872a73c69a15b48f1aee55c06d584.svg",
+    "static/media/logo_footer.svg": "/bitlist/static/media/logo_footer.66564519fd29d9afab3de4d1a2e13738.svg",
+    "static/media/logo_kraken.svg": "/bitlist/static/media/logo_kraken.e80c0882e6a82e0c54bb.svg",
+    "static/media/1INCH.svg": "/bitlist/static/media/1INCH.b2e7c9150e2842cc924e062b0e3b9c93.svg",
+    "static/media/ETH.svg": "/bitlist/static/media/ETH.d37a5832556507c3576b8ac23c3045c7.svg",
+    "static/media/decen_btn.svg": "/bitlist/static/media/decen_btn.bbdc8769ba3c0a3b0340a93c21598c7f.svg",
+    "static/media/logo_crypto.svg": "/bitlist/static/media/logo_crypto.ac7775a38e90ff6df05a.svg",
+    "static/media/logo_coinbase.svg": "/bitlist/static/media/logo_coinbase.58a2ed49f6cd6acf6178.svg",
+    "static/media/user_support.svg": "/bitlist/static/media/user_support.d4167daf653413060977.svg",
+    "static/media/user_safe.svg": "/bitlist/static/media/user_safe.5247890d229f610f2bbe.svg",
+    "static/media/BNB.svg": "/bitlist/static/media/BNB.23f1b1ef552f4a29113d621beedca6cf.svg",
+    "static/media/user_access.svg": "/bitlist/static/media/user_access.871ccafa8f19165b0019.svg",
+    "static/media/user_encrypt.svg": "/bitlist/static/media/user_encrypt.62d88a431cc0d1846e4a.svg",
+    "static/media/user_withdraws.svg": "/bitlist/static/media/user_withdraws.8cc81e600cf2530c19eb.svg",
+    "static/media/user_p2p.svg": "/bitlist/static/media/user_p2p.6c1626047d2adba22599.svg",
+    "static/media/MATIC.svg": "/bitlist/static/media/MATIC.e0b385656781f533047244679f7f3890.svg",
+    "static/media/BTC.svg": "/bitlist/static/media/BTC.18c0322d763f5fd671b09dcfb3e56397.svg",
+    "static/media/logo_binance.svg": "/bitlist/static/media/logo_binance.d7b3070eefe37b7725f0.svg",
+    "static/media/logo_bitfinex.svg": "/bitlist/static/media/logo_bitfinex.002a391320f52fec233e.svg",
+    "static/media/BUSD.svg": "/bitlist/static/media/BUSD.78cd1c32e733cc7e73812fdc32f82167.svg",
+    "static/media/twitter.svg": "/bitlist/static/media/twitter.f8098b51daaf2fc2583ae4036119fc11.svg",
+    "static/media/logo_bybit.svg": "/bitlist/static/media/logo_bybit.d3e04d9aab135f2e04d9.svg",
+    "static/media/mail.svg": "/bitlist/static/media/mail.fc641d1436836a260969.svg",
+    "static/media/telegram.svg": "/bitlist/static/media/telegram.5c863c5979938fe5485557d16776f8f6.svg",
+    "index.html": "/bitlist/index.html",
+    "static/media/facebook.svg": "/bitlist/static/media/facebook.0a0488372ff6afb726fe0b9ef1bb08ac.svg",
+    "static/media/line.svg": "/bitlist/static/media/line.f2c4130ccd7d63fff8f7b3ce0047cbb5.svg",
+    "main.5c8c4955.css.map": "/bitlist/static/css/main.5c8c4955.css.map",
+    "main.715509ba.js.map": "/bitlist/static/js/main.715509ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8c4955.css",
+    "static/js/main.715509ba.js"
+  ]
+}
