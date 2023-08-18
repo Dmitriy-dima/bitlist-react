@@ -1,6 +1,7 @@
 {
   "name": "bitlist",
   "version": "0.1.0",
+  "homepage": "https://nevermor-kkuzehn.github.io/bitlist/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
