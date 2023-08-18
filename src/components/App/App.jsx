@@ -10,8 +10,8 @@ export const App = () => {
 	return (
 		<div className='app'>
 			<Header />
-			<Home />
 			<div className="container">
+				<Home />
 				<Sidebar />
 				<AppRoutes />
 			</div>
