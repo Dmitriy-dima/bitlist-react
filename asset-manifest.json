@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bitlist/static/css/main.5c8c4955.css",
-    "main.js": "/bitlist/static/js/main.f6069993.js",
+    "main.css": "/bitlist/static/css/main.e39c061e.css",
+    "main.js": "/bitlist/static/js/main.b56e165f.js",
     "static/media/Frame.svg": "/bitlist/static/media/Frame.3584883e441639df2bdc99f1208a5bf6.svg",
     "static/media/Mainpage.svg": "/bitlist/static/media/Mainpage.6e701cc9042c214186ba.svg",
     "static/media/logo.svg": "/bitlist/static/media/logo.8a5872a73c69a15b48f1aee55c06d584.svg",
@@ -31,11 +31,11 @@
     "index.html": "/bitlist/index.html",
     "static/media/facebook.svg": "/bitlist/static/media/facebook.0a0488372ff6afb726fe0b9ef1bb08ac.svg",
     "static/media/line.svg": "/bitlist/static/media/line.f2c4130ccd7d63fff8f7b3ce0047cbb5.svg",
-    "main.5c8c4955.css.map": "/bitlist/static/css/main.5c8c4955.css.map",
-    "main.f6069993.js.map": "/bitlist/static/js/main.f6069993.js.map"
+    "main.e39c061e.css.map": "/bitlist/static/css/main.e39c061e.css.map",
+    "main.b56e165f.js.map": "/bitlist/static/js/main.b56e165f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c8c4955.css",
-    "static/js/main.f6069993.js"
+    "static/css/main.e39c061e.css",
+    "static/js/main.b56e165f.js"
   ]
 }
