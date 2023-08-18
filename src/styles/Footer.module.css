@@ -1,0 +1,85 @@
+.footer {
+  height: 409px;
+  display: flex;
+  justify-content: center; 
+  padding: 16px;
+  margin-top: 50px;
+  background:#08090B;
+}
+.footerWrapper {
+  width: 1590px; 
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto; 
+}
+.footerLeft {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.footerCenter {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.footerRight {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.footerRightColumn {
+  display: flex;
+  color: #464E62;
+  flex-direction: column;
+  margin: 0 16px; 
+}
+.footerRightColumn p {
+  margin-bottom: 28px;
+}
+
+.footerLogo {
+  width: 197px;
+  height: 35px;
+  margin-bottom: 48px; 
+}
+
+.footerSocial {
+  display: flex;
+  margin-bottom: 90px; 
+}
+
+.footerSocial img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px; 
+}
+
+.footerButton {
+	border-radius: 6px;
+	background: radial-gradient(100.04% 100.00% at 50.00% 0.00%, #26314E 0%, #1E253C 100%);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.footerButton:last-child {
+  margin-left: 8px;
+}
+.footerButton:hover{
+  background: var(--1, radial-gradient(100.04% 100.00% at 50.00% 0.00%, #66CBF9 0%, #0FB5FF 100%));
+  color: #08090B;
+}
+
+.footerCopyright {
+  margin-top: 10px;
+  color: #27314A;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 160%; 
+}
